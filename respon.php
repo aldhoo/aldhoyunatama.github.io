@@ -4,7 +4,7 @@ $pertanyaan = query1("SELECT * FROM pertanyaan ORDER BY id DESC LIMIT 1");
 $respon = query("SELECT * FROM respon");
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 <head>
     <meta charset="UTF-8">
