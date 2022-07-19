@@ -31,7 +31,7 @@ $respon = query("SELECT * FROM respon");
   </div>
   </div>
   <div  style="background-color: white; text-align:center; height:40pt" height="20pt">
-  <button type="button" class="btn btn-outline-danger">Pertanyaan</button><a href="pertanyaan.php"><button type="button" class="btn btn-outline-danger">Jawaban</button></a><a href="#"><button type="button" class="btn btn-outline-danger active">Respon</button></a> 
+  <button type="button" class="btn btn-outline-danger">Pertanyaan</button><a href="jawaban.php"><button type="button" class="btn btn-outline-danger">Jawaban</button></a><a href="#"><button type="button" class="btn btn-outline-danger active">Respon</button></a> 
   </div>
 </nav>
 <!-- End Navbar -->
